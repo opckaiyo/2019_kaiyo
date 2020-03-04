@@ -1,0 +1,15 @@
+{'time':3.08,  'input_key':'i',  'm_val':30,  'goal_yaw':0,  'goal_depth':1.0,  'set_yaw':False,  'set_depth':False,  'rot0':0,  'rot1':0,  'rot2':0,  'rot3':0,  'rot4':0,  'rot5':0}
+{'time':3.75,  'input_key':'i',  'm_val':30,  'goal_yaw':0,  'goal_depth':1.0,  'set_yaw':False,  'set_depth':False,  'rot0':0,  'rot1':0,  'rot2':0,  'rot3':0,  'rot4':0,  'rot5':0}
+{'time':4.25,  'input_key':'i',  'm_val':30,  'goal_yaw':0,  'goal_depth':1.0,  'set_yaw':False,  'set_depth':False,  'rot0':0,  'rot1':0,  'rot2':0,  'rot3':0,  'rot4':0,  'rot5':0}
+{'time':4.59,  'input_key':'i',  'm_val':30,  'goal_yaw':0,  'goal_depth':1.0,  'set_yaw':False,  'set_depth':False,  'rot0':0,  'rot1':0,  'rot2':0,  'rot3':0,  'rot4':0,  'rot5':0}
+{'time':4.76,  'input_key':'i',  'm_val':30,  'goal_yaw':0,  'goal_depth':1.0,  'set_yaw':False,  'set_depth':False,  'rot0':0,  'rot1':0,  'rot2':0,  'rot3':0,  'rot4':0,  'rot5':0}
+{'time':5.26,  'input_key':'i',  'm_val':30,  'goal_yaw':0,  'goal_depth':1.0,  'set_yaw':False,  'set_depth':False,  'rot0':0,  'rot1':0,  'rot2':0,  'rot3':0,  'rot4':0,  'rot5':0}
+{'time':5.43,  'input_key':'i',  'm_val':30,  'goal_yaw':0,  'goal_depth':1.0,  'set_yaw':False,  'set_depth':False,  'rot0':0,  'rot1':0,  'rot2':0,  'rot3':0,  'rot4':0,  'rot5':0}
+{'time':5.76,  'input_key':'i',  'm_val':30,  'goal_yaw':0,  'goal_depth':1.0,  'set_yaw':False,  'set_depth':False,  'rot0':0,  'rot1':0,  'rot2':0,  'rot3':0,  'rot4':0,  'rot5':0}
+{'time':5.93,  'input_key':'i',  'm_val':30,  'goal_yaw':0,  'goal_depth':1.0,  'set_yaw':False,  'set_depth':False,  'rot0':0,  'rot1':0,  'rot2':0,  'rot3':0,  'rot4':0,  'rot5':0}
+{'time':6.27,  'input_key':'i',  'm_val':30,  'goal_yaw':0,  'goal_depth':1.0,  'set_yaw':False,  'set_depth':False,  'rot0':0,  'rot1':0,  'rot2':0,  'rot3':0,  'rot4':0,  'rot5':0}
+{'time':6.43,  'input_key':'i',  'm_val':30,  'goal_yaw':0,  'goal_depth':1.0,  'set_yaw':False,  'set_depth':False,  'rot0':0,  'rot1':0,  'rot2':0,  'rot3':0,  'rot4':0,  'rot5':0}
+{'time':6.6,  'input_key':'i',  'm_val':30,  'goal_yaw':0,  'goal_depth':1.0,  'set_yaw':False,  'set_depth':False,  'rot0':0,  'rot1':0,  'rot2':0,  'rot3':0,  'rot4':0,  'rot5':0}
+{'time':7.27,  'input_key':'p',  'm_val':30,  'goal_yaw':0,  'goal_depth':1.0,  'set_yaw':False,  'set_depth':False,  'rot0':0,  'rot1':0,  'rot2':0,  'rot3':0,  'rot4':0,  'rot5':0}
+{'time':8.28,  'input_key':'p',  'm_val':30,  'goal_yaw':0,  'goal_depth':1.0,  'set_yaw':False,  'set_depth':False,  'rot0':0,  'rot1':0,  'rot2':0,  'rot3':0,  'rot4':0,  'rot5':0}
+{'time':10.46,  'input_key':'p',  'm_val':0,  'goal_yaw':0,  'goal_depth':1.0,  'set_yaw':False,  'set_depth':False,  'rot0':0,  'rot1':0,  'rot2':0,  'rot3':0,  'rot4':0,  'rot5':0}
