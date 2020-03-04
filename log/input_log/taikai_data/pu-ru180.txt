@@ -1,0 +1,13 @@
+{'time':7.45,  'input_key':'W',  'm_val':30,  'goal_yaw':0,  'goal_depth':0.1,  'set_yaw':False,  'set_depth':False,  'rot0':0,  'rot1':0,  'rot2':0,  'rot3':0,  'rot4':0,  'rot5':0}
+{'time':9.47,  'input_key':'X',  'm_val':30,  'goal_yaw':0,  'goal_depth':0.1,  'set_yaw':True,  'set_depth':False,  'rot0':15,  'rot1':22,  'rot2':0,  'rot3':0,  'rot4':27,  'rot5':42}
+{'time':14.39,  'input_key':'X',  'm_val':30,  'goal_yaw':0,  'goal_depth':0.1,  'set_yaw':True,  'set_depth':True,  'rot0':50,  'rot1':46,  'rot2':0,  'rot3':0,  'rot4':91,  'rot5':86}
+{'time':19.98,  'input_key':'A',  'm_val':30,  'goal_yaw':0,  'goal_depth':0.1,  'set_yaw':True,  'set_depth':False,  'rot0':55,  'rot1':55,  'rot2':0,  'rot3':0,  'rot4':101,  'rot5':104}
+{'time':26.6,  'input_key':'W',  'm_val':30,  'goal_yaw':180,  'goal_depth':0.1,  'set_yaw':False,  'set_depth':False,  'rot0':58,  'rot1':59,  'rot2':0,  'rot3':0,  'rot4':114,  'rot5':114}
+{'time':29.15,  'input_key':'X',  'm_val':30,  'goal_yaw':180,  'goal_depth':0.1,  'set_yaw':True,  'set_depth':False,  'rot0':26,  'rot1':22,  'rot2':0,  'rot3':0,  'rot4':47,  'rot5':41}
+{'time':40.36,  'input_key':'X',  'm_val':30,  'goal_yaw':180,  'goal_depth':0.1,  'set_yaw':True,  'set_depth':True,  'rot0':115,  'rot1':105,  'rot2':0,  'rot3':0,  'rot4':202,  'rot5':192}
+{'time':40.7,  'input_key':'D',  'm_val':30,  'goal_yaw':180,  'goal_depth':0.1,  'set_yaw':True,  'set_depth':False,  'rot0':3,  'rot1':2,  'rot2':0,  'rot3':0,  'rot4':6,  'rot5':6}
+{'time':47.65,  'input_key':'W',  'm_val':30,  'goal_yaw':0,  'goal_depth':0.1,  'set_yaw':False,  'set_depth':False,  'rot0':57,  'rot1':53,  'rot2':0,  'rot3':0,  'rot4':107,  'rot5':113}
+{'time':56.31,  'input_key':'D',  'm_val':30,  'goal_yaw':0,  'goal_depth':0.1,  'set_yaw':True,  'set_depth':False,  'rot0':80,  'rot1':88,  'rot2':0,  'rot3':0,  'rot4':146,  'rot5':168}
+{'time':65.82,  'input_key':'W',  'm_val':30,  'goal_yaw':180,  'goal_depth':0.1,  'set_yaw':False,  'set_depth':False,  'rot0':56,  'rot1':52,  'rot2':0,  'rot3':0,  'rot4':105,  'rot5':111}
+{'time':72.45,  'input_key':'D',  'm_val':30,  'goal_yaw':180,  'goal_depth':0.1,  'set_yaw':True,  'set_depth':False,  'rot0':66,  'rot1':62,  'rot2':0,  'rot3':0,  'rot4':120,  'rot5':117}
+{'time':77.89,  'input_key':'p',  'm_val':0,  'goal_yaw':0,  'goal_depth':0.1,  'set_yaw':False,  'set_depth':False,  'rot0':56,  'rot1':53,  'rot2':0,  'rot3':0,  'rot4':106,  'rot5':110}
